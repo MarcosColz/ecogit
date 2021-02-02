@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "eg2.vscode-npm-script",
+        "adam-bender.commit-message-editor",
+        "howardzuo.vscode-npm-dependency" 
+    ]
+
+    {
+        "husky": { 
+          "hooks": {
+            "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+           }
+    
+        
+      } 
+}
