@@ -1,3 +1,10 @@
+body {
+  font: 20px "Montserrat", sans-serif;
+  line-height: 1.8;
+  color: #f5f6f7;
+}
+p {font-size: 16px;}
+
 .bg-1 {
     background-color: #1abc9c; /* Green */
     color: #ffffff;
@@ -27,6 +34,6 @@
     color: #1abc9c !important;
   }
 .bg-4 {
-  background-color: #a092921e;
+  background-color: #2f2f2f1e;
   color: #a82121;
 }
